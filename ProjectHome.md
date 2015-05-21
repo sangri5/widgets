@@ -1,0 +1,1 @@
+this is a widgets user for any site developed in php and ajax
